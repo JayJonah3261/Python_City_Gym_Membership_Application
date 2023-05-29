@@ -1,0 +1,2259 @@
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Membership Type: 0
+Duration: 0
+Extras: 0000
+Payment Option: 0
+Payment Frequency: 0
+First Name: Jayden
+Last Name: Wood
+Address: 0273635978
+Phone Number: 4 cory jane grove riverstone terraces
+Membership Type: Basic($10)
+Duration: 3 months
+Extras: 24/7 Access ($1)0Personal Trainer ($20)0
+Payment Option: Direct Debit (1%)
+Payment Frequency: Weekly
+First Name: aa
+Last Name: aaaaa
+Address: aaa
+Phone Number: aaa
+Membership Type: 10
+Duration: 3 months
+Extras: 24/7 Access ($1)0Personal Trainer ($20)0
+Payment Option: Direct Debit (1%)
+Payment Frequency: Weekly
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Membership Type: $10
+Duration: $0
+Extras: $0000
+Payment Option: 0
+Payment Frequency: 0
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Membership Type: $0
+Duration: $0
+Extras: $0000
+Payment Option: 0
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Membership Type: $0
+Duration: $0
+Extras: $0000
+Payment Option: 0
+Payment Frequency: 0
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove
+Membership Type: $15
+Duration: $2
+Extras: $1002
+Payment Option: 0.01
+Payment Frequency: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove Riverstone Terraces
+Membership Type: $15
+Duration: $2
+Extras: $1$ 0$ 0$ 2
+Payment Option: 0.01
+Payment Frequency: 4
+First Name: Jono
+Last Name: Grant
+Address: 027456978
+Phone Number: Modnation street 3256
+Membership Type: $15
+Duration: $2
+Extras: $1
+Payment Option: 0.01
+Payment Frequency: 4
+First Name: Tag
+Last Name: Spencer
+Address: 0274669830
+Phone Number: Crew Street 39
+Membership Type: $15
+Duration: $2
+2
+Payment Option: 0.01
+Payment Frequency: 1
+First Name: Jayden
+Last Name: Wood
+Address: 0273536960
+Phone Number: 4 Cory Jane Grove Riverstone terraces
+Base Membership Cost: $15
+Extra Cost: $1$ 0$ 0$ 2
+Total Discount: $ PY_VAR20
+Net membership Cost: $PY_VAR22
+Regular Payment Amount: $<function PaymentAmountTotal at 0x105524700>
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 cory jane
+Base Membership Cost: $20
+Extra Cost: $1$ 20$ 20$ 2
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 cory jane grove riverstone terraces
+Base Membership Cost: $10
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: frwber
+Last Name: berberbr
+Address: ebbee
+Phone Number: ebeeerr
+Base Membership Cost: $10
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $PY_VAR23
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: wewewe
+Last Name: eweewewee
+Address: eweweweewew
+Phone Number: eweeweww
+Base Membership Cost: $10
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $PY_VAR21
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Base Membership Cost: $15
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $PY_VAR21
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: xsxxsx
+Last Name: xsxsxs
+Address: xsxsxxs
+Phone Number: sxsxx
+Base Membership Cost: $15
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $PY_VAR21
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: css
+Last Name: cscssc
+Address: ccsscscc
+Phone Number: csccs
+Base Membership Cost: $15
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: ssx
+Last Name: sxxsx
+Address: xsxsxss
+Phone Number: sxsxsxsxs
+Base Membership Cost: $15
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $<function PaymentAmountTotal at 0x10cddc670>
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: deded
+Last Name: ededed
+Address: eddedee
+Phone Number: ededded
+Base Membership Cost: $15
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: FRFFR
+Last Name: FRFRFRF
+Address: FRFRFRFRF
+Phone Number: RFFRFRFR
+Base Membership Cost: $15
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+First Name: dcc
+Last Name: dcdcdc
+Address: cddcdcd
+Phone Number: cdcccd
+Base Membership Cost: $15
+Extra Cost: $<function XtraCharges at 0x103ed04c0>
+Total Discount: $ <function DiscountTotal at 0x103ed0550>
+Net membership Cost: $<function net_total at 0x103ed05e0>
+Regular Payment Amount: $<function PaymentAmountTotal at 0x103ed0670>
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: xxax
+Last Name: xaaxa
+Address: xxxxax
+Phone Number: xaaax
+Base Membership Cost: $15
+Extra Cost: $<function XtraCharges at 0x10b6a94c0>
+Total Discount: $ <function DiscountTotal at 0x10b6a9550>
+Net membership Cost: $<function net_total at 0x10b6a95e0>
+Regular Payment Amount: $PY_VAR18
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Base Membership Cost: $15
+Extra Cost: $<function XtraCharges at 0x10e9554c0>
+Total Discount: $ <function DiscountTotal at 0x10e955550>
+Net membership Cost: $<function net_total at 0x10e9555e0>
+First Name: axxa
+Last Name: axax
+Address: xaxaxaxx
+Phone Number: xaxa
+Base Membership Cost: $15
+Extra Cost: $<function XtraCharges at 0x10e9554c0>
+Total Discount: $ <function DiscountTotal at 0x10e955550>
+Net membership Cost: $<function net_total at 0x10e9555e0>
+First Name: dddd
+Last Name: ddddddd
+Address: ddddddddd
+Phone Number: ddddd
+Base Membership Cost: $15
+Extra Cost: $<function XtraCharges at 0x10350d4c0>
+Total Discount: $ <function DiscountTotal at 0x10350d550>
+Net membership Cost: $<function net_total at 0x10350d5e0>
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+First Name: ssss
+Last Name: ssss
+Address: sssss
+Phone Number: ssss
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove
+Base Membership Cost: $None
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove Riverstone Terraces
+Base Membership Cost: $None
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Base Membership Cost: $None
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0
+Method of Payment: 0
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove Riverstone
+Base Membership Cost: $None
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayyy
+Last Name: xaxax
+Address: axaxxax
+Phone Number: xax
+First Name: aaa
+Last Name: aaaa
+Address: aaaaaa
+Phone Number: aaaa
+First Name: www
+Last Name: eeee
+Address: yyyy
+Phone Number: tttt
+None
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: aaaa
+Last Name: aaaa
+Address: yyyy
+Phone Number: rrr
+Base Membership Cost: $PY_VAR18
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: sss
+Last Name: sss
+Address: ssssss
+Phone Number: ssss
+First Name: TTTT
+Last Name: TTT
+Address: TTTT
+Phone Number: TTT
+Base Membership Cost Total: PY_VAR18
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: aaa
+Last Name: aaa
+Address: aaaaa
+Phone Number: aaa
+Base Membership Cost Total: 0
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: aaaaaa
+Last Name: aaaa
+Address: aaaa
+Phone Number: aaaa
+Base Membership Cost Total: 15
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove Riverstone Terraces
+Base Membership Cost Total: 15
+Extra Cost: $None
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Base Membership Cost Total: 15
+Extra Cost: $23
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: oooppp
+Last Name: ooppp
+Address: ppppp
+Phone Number: pppp
+Base Membership Cost Total: 15
+Extra Cost: $23
+Total Discount: $ None
+Net membership Cost: $None
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaa
+Last Name: sss
+Address: ssssss
+Phone Number: sssss
+Base Membership Cost Total: 15
+Extra Cost: $43
+Total Discount: $ None
+Net membership Cost: $56
+Regular Payment Amount: $None
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove
+Base Membership Cost Total: 15
+Extra Cost: $23
+Total Discount: $ 2
+Net membership Cost: $36
+Regular Payment Amount: $144
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aa
+Last Name: aaa
+Address: aaaa
+Phone Number: aa
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaa
+Last Name: aaaaa
+Address: aaaa
+Phone Number: aaaa
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $16
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Addai
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 cORY jANE Grove Riverstone tERRACES
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 027353906
+Phone Number: 4 Cory Jane Grove 
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove Rivertsone Terraces
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 cory jane grove riverstone
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayyy
+Last Name: Woood
+Address: 02987654678
+Phone Number: 4 cory jane grive
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 cory jane grove
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $16
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory jane Grove
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 Cory Jane Grove
+Base Membership Cost Total: 15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 0273536906
+Phone Number: 4 cory jane grove riverstone terraces
+Base Membership Cost Total: $15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jordan
+Last Name: Carter
+Address: 4 Shlatt Street 44
+Phone Number: 0273534986
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $21
+Regular Payment Amount: $84
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $55
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $23
+Total Discount: $ 2
+Net membership Cost: $36
+Regular Payment Amount: $144
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Addai 
+Last Name: Wood
+Address: 4 Cory Jane Grove
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $41
+Total Discount: $ 2
+Net membership Cost: $59
+Regular Payment Amount: $236
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Addai 
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $21
+Total Discount: $ 2
+Net membership Cost: $39
+Regular Payment Amount: $156
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaaa
+Last Name: aaaa
+Address: aaaaaaa
+Phone Number: 4444444444
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $21
+Regular Payment Amount: $84
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaaa
+Last Name: aaa
+Address: aaaa
+Phone Number: 4545454
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaaa
+Last Name: aaaa
+Address: aaaaaa
+Phone Number: 878787
+Base Membership Cost Total: $20
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $60
+Regular Payment Amount: $240
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aa
+Last Name: aaa
+Address: aaaa
+Phone Number: 2323232
+Base Membership Cost Total: $20
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $60
+Regular Payment Amount: $240
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Charmla
+Last Name: Wood
+Address: 4 Cory Jane gRove Riverstone Terraces
+Phone Number: 02735367854
+Base Membership Cost Total: $15
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $16
+Regular Payment Amount: $64
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane GRove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $21
+Regular Payment Amount: $84
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Charmla
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $21
+Regular Payment Amount: $84
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Charmla 
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $21
+Regular Payment Amount: $84
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aa
+Last Name: aaaaa
+Address: aaaaaa
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $60
+Regular Payment Amount: $240
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaa
+Last Name: aaaa
+Address: aaa
+Phone Number: 12121212
+Base Membership Cost Total: $20
+Extra Cost: $41
+Total Discount: $ 2
+Net membership Cost: $59
+Regular Payment Amount: $236
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: qqq
+Last Name: qqqqq
+Address: qqqqqqq
+Phone Number: 1222122
+Base Membership Cost Total: $20
+Extra Cost: $23
+Total Discount: $ 2
+Net membership Cost: $41
+Regular Payment Amount: $164
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaaa
+Last Name: aaaa
+Address: aaa
+Phone Number: 23232323
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $21
+Regular Payment Amount: $84
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: wwww
+Last Name: wwww
+Address: 4 Cory Jane GRove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $21
+Regular Payment Amount: $84
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: ww
+Last Name: wwwww
+Address: wwwww
+Phone Number: 43354644
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 1
+Net membership Cost: $22
+Regular Payment Amount: $88
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaa
+Last Name: aaaa
+Address: aaaaa
+Phone Number: 131312121
+Base Membership Cost Total: $15
+Extra Cost: $20
+Total Discount: $ 2
+Net membership Cost: $33
+Regular Payment Amount: $132
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaa
+Last Name: aa
+Address: aa
+Phone Number: 54363532
+Base Membership Cost Total: $20
+Extra Cost: $3
+Total Discount: $ 2
+Net membership Cost: $21
+Regular Payment Amount: $84
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: fsfscssa
+Last Name: dsffav
+Address: 4 Cory Jane
+Phone Number: 293735333
+Base Membership Cost Total: $20
+Extra Cost: $41
+Total Discount: $ 2
+Net membership Cost: $59
+Regular Payment Amount: $236
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $41
+Total Discount: $ 2
+Net membership Cost: $59
+Regular Payment Amount: $59
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: ss
+Last Name: sss
+Address: ssss
+Phone Number: 03837474
+Base Membership Cost Total: $20
+Extra Cost: $21
+Total Discount: $ 2
+Net membership Cost: $39
+Regular Payment Amount: $156
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaa
+Last Name: aa
+Address: aaaa
+Phone Number: 23536252
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: AAAA
+Last Name: AAAAA
+Address: 4 CORY JANE GROVE
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $21
+Total Discount: $ 2
+Net membership Cost: $39
+Regular Payment Amount: $156
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaaa
+Last Name: aaaa
+Address: aaaaa
+Phone Number: 12121212
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaaaa
+Last Name: aaaaaa
+Address: 444 gegege
+Phone Number: 039374674
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: hehehe
+Last Name: hehehe
+Address: 4 cory jane grove riverstone terraces
+Phone Number: 02763548696
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 1
+Method of Payment: 4
+First Name: hehehe
+Last Name: hehe
+Address: 4 cory jane grove
+Phone Number: 087464847464
+Base Membership Cost Total: $20
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $60
+Regular Payment Amount: $240
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaaaa
+Last Name: aaaa
+Address: aaa
+Phone Number: 1212121
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aa
+Last Name: aaaaa
+Address: hrgeddwsdf
+Phone Number: 027353959544
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: hehehe
+Last Name: hehehe
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 039746468595
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 1
+Method of Payment: 4
+First Name: bowe3
+Last Name: wow3
+Address: 4 cory jane grover
+Phone Number: 0937547585
+Base Membership Cost Total: $20
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $40
+Regular Payment Amount: $160
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: jfheudgvshjva
+Last Name: afwvdsxzvbwe 
+Address: fgewrbdvsaFQG
+Phone Number: 242525524
+Base Membership Cost Total: $15
+Extra Cost: $20
+Total Discount: $ 2
+Net membership Cost: $33
+Regular Payment Amount: $132
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: WVGBREVFDAS
+Last Name: GR
+Address: BVWDsdb
+Phone Number: 343453446
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: sqaVQW
+Last Name: EVQE
+Address: FWVQ
+Phone Number: 1345342442
+Base Membership Cost Total: $20
+Extra Cost: $20
+Total Discount: $ 2
+Net membership Cost: $38
+Regular Payment Amount: $152
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: ssss
+Last Name: ssss
+Address: ssssss
+Phone Number: 3333333
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: hhhdhd
+Last Name: hgedghegdf
+Address: fgfwdqfbf
+Phone Number: 543621534
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: jayden
+Last Name: wood
+Address: 4 cory jane grove riverstone terraces
+Phone Number: 07536869707
+Base Membership Cost Total: $20
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $60
+Regular Payment Amount: $240
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: addai
+Last Name: wood
+Address: 4 cory jane grove rivertsone terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Playboi
+Last Name: Carti
+Address: 444 Shlatt Drve
+Phone Number: 0897654678
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Pierre 
+Last Name: Bourne 
+Address: 4 Hulu Street
+Phone Number: 056789654
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Addai
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536789
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: jayden
+Last Name: Wood
+Address: 4 cory jane grove riverstone terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaa
+Last Name: aaaa
+Address: aaaaaaa33333
+Phone Number: 0933642424
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: dafcs
+Last Name: avaV
+Address: FQW
+Phone Number: 232323
+Base Membership Cost Total: $20
+Extra Cost: $20
+Total Discount: $ 2
+Net membership Cost: $38
+Regular Payment Amount: $152
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: aaa
+Last Name: aaaa
+Address: aaaaa
+Phone Number: 23333232332
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Michael 
+Last Name: Jordan
+Address: 25 Jumpman street
+Phone Number: 025342525
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: JayJay
+Last Name: Okoctha
+Address: 4 Victory Road
+Phone Number: 087345678
+Base Membership Cost Total: $20
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $60
+Regular Payment Amount: $240
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 cORY jANE Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Clark
+Last Name: Kent
+Address: 4 Cory Jane Grove Riverstone
+Phone Number: 09876543
+Base Membership Cost Total: $15
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $35
+Regular Payment Amount: $140
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $35
+Regular Payment Amount: $140
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: jayden
+Last Name: wood
+Address: 4 cory jane grove riverstone terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $20
+Total Discount: $ 2
+Net membership Cost: $38
+Regular Payment Amount: $38
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: jayden
+Last Name: wood
+Address: 4 cory jane grove riverstne terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $58
+Regular Payment Amount: $232
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $35
+Regular Payment Amount: $140
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Base Membership Cost Total: $0
+Extra Cost: $0
+Total Discount: $ 0
+Net membership Cost: $0
+Regular Payment Amount: $0
+Frequency of Payment: 0
+Method of Payment: 0
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Base Membership Cost Total: $0
+Extra Cost: $0
+Total Discount: $ 0
+Net membership Cost: $0
+Regular Payment Amount: $0
+Frequency of Payment: 0
+Method of Payment: 0
+First Name: Jayden
+Last Name: Wood
+Address: 4 cor jane grove riverstone terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $20
+Total Discount: $ 2
+Net membership Cost: $33
+Regular Payment Amount: $132
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $20
+Total Discount: $ 2
+Net membership Cost: $33
+Regular Payment Amount: $132
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: wood
+Address: 4375628ythuwegrjrgfd
+Phone Number: 0328784827134
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 09273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $35
+Regular Payment Amount: $140
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove  Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $35
+Regular Payment Amount: $140
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Base Membership Cost Total: $0
+Extra Cost: $0
+Total Discount: $ 0
+Net membership Cost: $0
+Regular Payment Amount: $0
+Frequency of Payment: 0
+Method of Payment: 0
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane GRove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane GRove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove rIVERSTONE terrcaes
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $35
+Regular Payment Amount: $140
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane gRove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jonathin
+Last Name: Balvin
+Address: 4 Gala Street
+Phone Number: 0863456578
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grive Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terrcaces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $55
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grive Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces 
+Phone Number: 0273536960
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $43
+Total Discount: $ 2
+Net membership Cost: $56
+Regular Payment Amount: $224
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $41
+Total Discount: $ 5
+Net membership Cost: $56
+Regular Payment Amount: $224
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536904
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone tERRACES
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Groev Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $20
+Extra Cost: $22
+Total Discount: $ 5
+Net membership Cost: $37
+Regular Payment Amount: $148
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Addai
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: 
+Last Name: 
+Address: 
+Phone Number: 
+Base Membership Cost Total: $0
+Extra Cost: $0
+Total Discount: $ 0
+Net membership Cost: $0
+Regular Payment Amount: $0
+Frequency of Payment: 0
+Method of Payment: 0
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Addai
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Addai
+Last Name: dai
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Nico
+Last Name: Wood
+Address: 4 Slaan Street 
+Phone Number: 073456789
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: lenard
+Last Name: Wood
+Address: 4 Cory Jane gROVE Rivertsone
+Phone Number: 0987654321
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Danny 
+Last Name: Brown
+Address: 4 Silver Slin Street
+Phone Number: 0897644678
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 cORY Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: daddy
+Last Name: O
+Address: 4 slingy slangy street
+Phone Number: 09876543242
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane GRove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Chat
+Last Name: GPT
+Address: 0 NULL LANE
+Phone Number: 0099882211
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $220
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $35
+Regular Payment Amount: $140
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: John
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $22
+Total Discount: $ 2
+Net membership Cost: $35
+Regular Payment Amount: $140
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Damian
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Damian
+Last Name: Solo
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536960
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane GRove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane GRove Riverstone
+Phone Number: 425322
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $42
+Total Discount: $ 2
+Net membership Cost: $55
+Regular Payment Amount: $55
+Frequency of Payment: 0.01
+Method of Payment: 1
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Jayden
+Last Name: Wood
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $212
+Frequency of Payment: 0.01
+Method of Payment: 4
+First Name: Mario
+Last Name: Bros
+Address: 4 Cory Jane Grove Riverstone Terraces
+Phone Number: 0273536906
+Base Membership Cost Total: $15
+Extra Cost: $40
+Total Discount: $ 2
+Net membership Cost: $53
+Regular Payment Amount: $53
+Frequency of Payment: 0.01
+Method of Payment: 1
